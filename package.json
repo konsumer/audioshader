@@ -1,0 +1,13 @@
+{
+  "name": "@konsumer/audioshader",
+  "version": "0.0.0",
+  "type": "module",
+  "author": "konsumer",
+  "license": "MIT",
+  "scripts": {
+    "start": "npx -y live-server"
+  },
+  "exports": {
+    ".": "index.js"
+  }
+}
